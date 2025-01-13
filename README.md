@@ -1,4 +1,7 @@
-# 채은, Chae-eun
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa8f3,100:ff80d7&height=180&text=♡%20CHAE-EUN's%20GitHub%20♡&animation=fadeIn&fontColor=753e79&fontSize=60" />
+    </div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fccchaeng&count_bg=%23FFC8EA&title_bg=%23FF7D7D&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ##   🙌 소개
@@ -28,8 +31,6 @@
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 
 
 ## 📚 수강 과목
 <details><summary>전공
@@ -60,26 +61,55 @@
 - 소프트웨어특강II
 </details>
 
+<br>
+
 ## 👩🏻‍🎓 교내 활동
 - [2024~2025] 한림대학교 BIT융합연구소 학부 연구생
 - [2024] 소프트웨어학부 제6대 콘텐츠IT 학생회 'Clear' 사무부장
 - [2023] 소프트웨어학부 제5대 콘텐츠IT 학생회 'Dream' 사무부원
 - [2022] 소프트웨어학부 노네임 학술동아리 부원
 
+<br>
+
 ## 💻 프로젝트
 
-**📓 아침, 저녁 5분 일기 애플리케이션 (TEAM) _[깃허브](https://github.com/ccchaeng/Eoul.git/)_**
+**📓 아침, 저녁 5분 일기 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/Eoul.git/)_**
 - *2025.1 ~ 진행중*
+
 - 어울, "나와의 대화, 오늘을 기록하다"
+
 - 아침, 저녁으로 5분 동안 간단하게 일기를 작성하는 애플리케이션
+
 - 기술 스택: Android Studio, Kotlin, Firebase
 
-**💊 영양제 복용 관리 애플리케이션 (TEAM) _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
+<br>
+
+**💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
 - *2024.9 ~ 2024.11*
-- 사용자들이 더 나은 건강을 유지하고, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
+
+- 사용자들이 더 나은 건강을 유지하며, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
+
 - 기술 스택: Android Studio, JAVA, Firebase
 
-**🐱 고양이 아케이드 퍼즐 게임 _[깃허브](https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)_**
+<br>
+
+**🐱 고양이 아케이드 퍼즐 게임 🔎 _[깃허브](https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)_**
 - *2023.9 ~ 2023.11*
-- 주인이 외출한 사이 고양이가 방 안을 돌아다니며 여기저기 흩어져 잇는 고양이의 보물(먹이)을 찾아 다양한 퀴즈를 풀며 보물을 얻는 아케이드 퍼즐 게임
+
+- 주인이 외출한 사이 고양이가 방 안을 돌아다니며 여기저기 흩어져 있는 고양이의 보물(먹이)을 찾아 다양한 퀴즈를 풀며 보물을 얻는 아케이드 퍼즐 게임
+
 - 기술 스택: Unity Engine, C#
+
+<br>
+
+## 🏅
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeng30415)](https://solved.ac/{chaeng30415})
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=chaeng30415&theme=cold)
+
+<div style="text-align: left;"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=ccchaeng&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccchaeng&layout=compact&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
+           /> </div> 
+    </div>
