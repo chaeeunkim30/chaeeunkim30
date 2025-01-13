@@ -68,18 +68,18 @@
 
 ## 💻 프로젝트
 
-**📓 아침, 저녁 5분 일기 애플리케이션 (TEAM) [[깃허브](#https://github.com/ccchaeng/Eoul.git)]**
+**📓 아침, 저녁 5분 일기 애플리케이션 (TEAM) [깃허브](#https://github.com/ccchaeng/Eoul.git)**
 - *2025.1 ~ 진행중*
 - 어울, "나와의 대화, 오늘을 기록하다"
 - 아침, 저녁으로 5분 동안 간단하게 일기를 작성하는 애플리케이션
 - 기술 스택: Android Studio, Kotlin, Firebase
 
-**💊 영양제 복용 관리 애플리케이션 (TEAM) [[깃허브](#https://github.com/ccchaeng/NutriWish.git)]**
+**💊 영양제 복용 관리 애플리케이션 (TEAM) [깃허브](#https://github.com/ccchaeng/NutriWish.git)**
 - *2024.9 ~ 2024.11*
 - 사용자들이 더 나은 건강을 유지하고, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
 - 기술 스택: Android Studio, JAVA, Firebase
 
-**🐱 고양이 아케이드 퍼즐 게임 [[깃허브](#https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)]**
+**🐱 고양이 아케이드 퍼즐 게임 [깃허브](#https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)**
 - *2023.9 ~ 2023.11*
 - 주인이 외출한 사이 고양이가 방 안을 돌아다니며 여기저기 흩어져 잇는 고양이의 보물(먹이)을 찾아 다양한 퀴즈를 풀며 보물을 얻는 아케이드 퍼즐 게임
 - 기술 스택: Unity Engine, C#
