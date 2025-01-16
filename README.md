@@ -73,7 +73,7 @@
 
 ## 💻 프로젝트
 
-**📓 아침, 저녁 5분 일기 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/Eoul.git/)_**
+**📓 아침, 저녁 5분 일기 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/Project-Eoul/Eoul)_**
 - *2025.1 ~ 진행중*
 
 - 어울, "나와의 대화, 오늘을 기록하다"
