@@ -73,17 +73,6 @@
 
 ## 💻 프로젝트
 
-**📓 아침, 저녁 5분 일기 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/Project-Eoul/)_**
-- *2025.1 ~ 진행중*
-
-- 어울, "나와의 대화, 오늘을 기록하다"
-
-- 아침, 저녁으로 5분 동안 간단하게 일기를 작성하는 애플리케이션
-
-- 기술 스택: Android Studio, Kotlin, Firebase
-
-<br>
-
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
 - *2024.9 ~ 2024.11*
 
