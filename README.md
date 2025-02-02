@@ -73,6 +73,15 @@
 
 ## 💻 프로젝트
 
+**🐶 개발자를 위한 웹사이트 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/gaebalbadak.git)_**
+- * ~ *
+
+- 개발자들의 바닥까지 파헤치는 공간
+
+- 커뮤니티를 통한 코드 질문, 오류 해결 / 스터디 모집 / 대회 및 부트캠프 공고 등 개발자들을 위한 다양한 정보를 모아둔 웹사이트
+
+- 기술 스택: React, CSS, Firebase
+
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
 - *2024.9 ~ 2024.11*
 
