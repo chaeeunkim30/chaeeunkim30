@@ -79,14 +79,14 @@
 
 - 커뮤니티를 통한 코드 질문, 오류 해결 / 스터디 모집 / 대회 및 부트캠프 공고 등 개발자들을 위한 다양한 정보를 모아둔 웹사이트
 
-- 기술 스택: React, CSS, Firebase
+- 기술 스택: TypeScript, React, Recoil, Node.js, Axios, SCSS, Firebase
 
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
 - *2024.9 ~ 2024.11*
 
 - 사용자들이 더 나은 건강을 유지하며, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
 
-- 기술 스택: Android Studio, JAVA, Firebase
+- 기술 스택: Android, HTML, CSS, JAVA, Firebase
 
 <br>
 
