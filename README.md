@@ -82,7 +82,7 @@
 - 기술 스택: TypeScript, React, Recoil, Node.js, Axios, SCSS, Firebase
 
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
-- *2024.9 ~ 2024.11*
+- *2024.09.06 ~ 2024.11.22*
 
 - 사용자들이 더 나은 건강을 유지하며, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
 
