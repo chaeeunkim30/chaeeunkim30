@@ -81,6 +81,7 @@
 
 - 기술 스택: TypeScript, React, Recoil, Node.js, Axios, SCSS, Firebase
 
+</br>
 <br>
 
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
@@ -97,6 +98,7 @@
   - 하단 네비게이션 바 구현
  
 ![image](https://github.com/user-attachments/assets/3a7981ef-e881-4a04-acc8-f386025b0ad9)
+</br>
 <br>
 
 **🐱 고양이 아케이드 퍼즐 게임 🔎 _[깃허브](https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)_**
