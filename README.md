@@ -81,6 +81,8 @@
 
 - 기술 스택: TypeScript, React, Recoil, Node.js, Axios, SCSS, Firebase
 
+<br>
+
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
 - *2024.09.06 ~ 2024.11.22*
 
@@ -93,10 +95,12 @@
   - 인트로 화면, 로그인 및 회원가입 화면 구현 + 파이어베이스 연동
   - CalendarView를 이용한 캘린더 화면 및 Dialog를 통한 일정 추가 삭제 관리 기능 구현 + 파이어베이스 연동
   - 하단 네비게이션 바 구현
-
+ 
+![image](https://github.com/user-attachments/assets/3a7981ef-e881-4a04-acc8-f386025b0ad9)
 <br>
 
 **🐱 고양이 아케이드 퍼즐 게임 🔎 _[깃허브](https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)_**
+
 - *2023.11.08 ~ 2023.11.28*
 
 - 주인이 외출한 사이 고양이가 방 안을 돌아다니며 여기저기 흩어져 있는 고양이의 보물(먹이)을 찾아 다양한 퀴즈를 풀며 보물을 얻는 아케이드 퍼즐 게임
@@ -108,6 +112,11 @@
   - 아이템 클릭 시 퀴즈 + 정답 / 오답 로직 구현 -> QuizController
   - 남은 보물, 남은 시간 / 게임 시작, 게임 종료, 다시하기를 위한 GameManager 구현
 
+| 인트로 | 인게임 | 퀴즈 |
+| :-: | :-: | :-: |
+| <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/534e83d1-d9fa-4904-bb23-a7d7dee14261" /> | <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/3eb45ff8-61a7-45be-84c6-bcfdeb9c78b2" /> | <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/f2133b15-4f6a-4014-a266-5fecba0ed2b7" /> |
+
+</br>
 <br>
 
 ## 🏅
