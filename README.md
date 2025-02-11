@@ -95,8 +95,8 @@
   
   - 전반적인 개발 기획 주도
   - 애플리케이션의 전체 CSS 구현
-  - 인트로 화면, 로그인 및 회원가입 화면 구현 + 파이어베이스 연동
-  - CalendarView를 이용한 캘린더 화면 및 Dialog를 통한 일정 추가 삭제 관리 기능 구현 + 파이어베이스 연동
+  - 인트로 화면, 로그인 및 회원가입 화면 구현 + Firebase 연동
+  - CalendarView를 이용한 캘린더 화면 및 Dialog를 통한 일정 추가 삭제 관리 기능 구현 + Firebase 연동
   - 하단 네비게이션 바 구현
  
 ![image](https://github.com/user-attachments/assets/3a7981ef-e881-4a04-acc8-f386025b0ad9)
