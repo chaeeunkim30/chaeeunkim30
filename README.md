@@ -85,7 +85,7 @@
 
 - 커뮤니티를 통한 코드 질문과 오류 해결 / 스터디 모집 / 대회 및 부트캠프 공고 등 개발자들을 위한 다양한 정보를 모아둔 웹사이트
 
-- 기술 스택: JavaScript, React, Recoil, Node.js, Axios, SCSS, Firebase
+- 기술 스택: Figma, JavaScript, React, Node.js, SCSS, Firebase
 
 </br>
 <br>
