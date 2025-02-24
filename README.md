@@ -80,6 +80,7 @@
 ## 💻 프로젝트
 
 **🐶 개발자를 위한 웹사이트 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/gaebalbadak.git)_**
+- *2025.02.13 ~ 진행중*
 
 - 개발자들의 바닥까지 파헤치는 공간
 
