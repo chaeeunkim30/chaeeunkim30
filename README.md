@@ -120,6 +120,7 @@
 
 - 기술 스택: Unity Engine, C#
 
+  - 전체 개발 기획 및 게임 디자인
   - 컨트롤러로 캐릭터 이동할 수 있는 Controller 구현
   - 캐릭터 이동 시 시점 카메라가 캐릭터를 따라다닐 수 잇도록 CameraMove 구현
   - 아이템 클릭 시 퀴즈 + 정답 / 오답 로직 구현 -> QuizController
