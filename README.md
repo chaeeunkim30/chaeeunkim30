@@ -86,7 +86,11 @@
 
 - 커뮤니티를 통한 코드 질문과 오류 해결 / 스터디 모집 / 대회 및 부트캠프 공고 등 개발자들을 위한 다양한 정보를 모아둔 웹사이트
 
-- 기술 스택: Figma, JavaScript, React, Node.js, SCSS, Firebase
+- 기술 스택: Figma, JavaScript, React, Node.js, SCSS, Firebase(Authentication, Firestore Database)
+
+  - 전반적인 개발 기획 주도
+  - Figma를 이용한 웹 디자인
+  - 재사용 가능한 컴포넌트를 사용해 로그인 및 회원가입 페이지 구현 + Firebase 연동
 
 </br>
 <br>
