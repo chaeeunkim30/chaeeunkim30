@@ -156,6 +156,12 @@
   - 스위치를 이용해 ON/OFF가 가능한 집 내부의 전등 (아두이노 보드 및 코드 구현)
   - 인체 감지 센서를 이용해 현관문 앞에 사람이 서있으면 자동으로 불이 켜지는 전등 (아두이노 보드 및 코드 구현)
 
+| 세부 사진 | 완성 사진 |
+| :-: | :-: |
+| <img width="345" height="150" alt="세부사진" src="https://github.com/user-attachments/assets/b33c49da-70c1-40b2-8d68-e33748edae39" /> | <img width="345" height="150" alt="완성사진" src="https://github.com/user-attachments/assets/e8b1c9a9-1702-4d96-8aec-76e53fe79a6b" /> |
+</br>
+<br>
+
 ## 🏅
 
 [![Solved.ac
