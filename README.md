@@ -2,8 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa8f3,100:ff80d7&height=180&text=♡%20CHAE-EUN's%20GitHub%20♡&animation=fadeIn&fontColor=753e79&fontSize=60" />
     </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fccchaeng&count_bg=%23FFC8EA&title_bg=%23FF7D7D&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ##   🙌 소개
 - 이름: 김채은 / Kim Chae-eun
 - 생년월일: 2003.04.15
