@@ -6,7 +6,7 @@
 - 이름: 김채은 / Kim Chae-eun
 - 생년월일: 2003.04.15
 - 소속: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT 전공 / 빅데이터 복수전공
-- Email: chaeng30415@naver.com
+- Email: chaeeunkim30@gmail.com
 
 <br>
 
