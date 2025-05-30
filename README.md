@@ -169,7 +169,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chaeng30415&theme=cold)
 
 <div style="text-align: left;"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ccchaeng&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccchaeng&layout=compact&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
+    <img src="https://github-readme-stats.vercel.app/api?username=chaeeunkim30&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeeunkim30&layout=compact&bg_color=60,ffccf1,ffe5f7&title_color=b16dba&text_color=b16dba"
            /> </div> 
     </div>
