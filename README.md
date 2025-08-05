@@ -126,6 +126,7 @@
 | 홈 | 로그인 & 회원가입 | 댓글 수정 및 삭제 | 프로필 |
 | :-: | :-: | :-: | :-: |
 | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/f599f54e-44ba-4464-824c-dfa79a8e90df" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/05888007-5312-4452-a77d-b7913849a01c" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/89466f10-4cab-420a-94ae-fbc3fb07d0ed" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/34e1254a-9bb8-4212-b411-e2461df4849e" /> |
+<br>
 클릭하면 사진이 더 크게 보입니다.
 </br>
 <br>
