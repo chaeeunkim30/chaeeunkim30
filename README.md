@@ -123,6 +123,10 @@
   - 프로필 이미지 컴포넌트를 사용해 각 사용자의 댓글 마다 개개인의 프로필 이미지 표시 / 프로필 이미지 클릭 시 각 유저의 프로필 페이지로 이동할 수 있게 구현
   - 본인이 작성한 댓글 수정 및 삭제 기능 구현
 
+| 홈 | 로그인 & 회원가입 | 댓글 수정 및 삭제 | 프로필 |
+| :-: | :-: | :-: | :-: |
+| <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/f599f54e-44ba-4464-824c-dfa79a8e90df" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/05888007-5312-4452-a77d-b7913849a01c" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/89466f10-4cab-420a-94ae-fbc3fb07d0ed" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/34e1254a-9bb8-4212-b411-e2461df4849e" /> |
+
 </br>
 <br>
 
