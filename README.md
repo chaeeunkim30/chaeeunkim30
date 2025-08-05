@@ -80,8 +80,8 @@
 
 ## 💻 프로젝트
 
-**🐶 AI 기반 이미지 식별 소형 임베디드 시스템 연구 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/MobileNet.git)_**
-- *2025.04.22 ~ 2025.11.*
+**📷 AI 기반 이미지 식별 소형 임베디드 시스템 연구 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/MobileNet.git)_**
+- *2025.04.22 ~ 진행중*
 
 - [한림대학교 - 산학협력 프로젝트] BIT융합연구소 학부 연구생으로 참여 중
 
