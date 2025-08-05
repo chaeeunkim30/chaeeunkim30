@@ -104,6 +104,7 @@
   - WaveForms SDK 연동
   - Impedance 계산하여 그래프를 띄워주는 기능 구현
   - 그래프에 대한 결과(시간, 정수, 허수, 절대값)를 .csv 파일로 저장하는 기능 구현
+  <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/ab3392ad-a13a-40d6-b4b7-f73d28e8fa94" />
 
 </br>
 <br>
