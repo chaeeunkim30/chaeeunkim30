@@ -80,7 +80,20 @@
 
 ## 💻 프로젝트
 
-**🐶 개발자를 위한 웹사이트 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/gaebalbadak.git)_**
+**🐶 AI 기반 이미지 식별 소형 임베디드 시스템 연구 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/MobileNet.git)_**
+- *2025.04.22 ~ 2025.11.*
+
+- [한림대학교 - 산학협력 프로젝트] BIT융합연구소 학부 연구생으로 참여 중
+
+- 기술 스택: Python, PyTorch
+
+  - AI 학습을 위해 Python을 활용한 Train Dataset 이미지 분류 소프트웨어 작성
+  - MobileNet 기반으로 모델 구축 중
+
+</br>
+<br>
+
+**🐶 개발자를 위한 웹사이트 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/gaebalbadak.git)_**
 - *2025.02.13 ~ 2025.04.01*
 
 - 개발자들의 바닥까지 파헤치는 공간
@@ -98,7 +111,7 @@
 </br>
 <br>
 
-**💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/NutriWish.git)_**
+**💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/NutriWish.git)_**
 - *2024.09.06 ~ 2024.11.22*
 
 - 사용자들이 더 나은 건강을 유지하며, 자신의 건강 상태에 맞는 영양제 복용을 선택하고 관리할 수 있는 실용적인 애플리케이션
@@ -115,7 +128,7 @@
 </br>
 <br>
 
-**🔐 RGB 암호 시스템 🔎 _[깃허브](https://github.com/ccchaeng/Simple-Cryptographic-System.git)_**
+**🔐 RGB 암호 시스템 🔎 _[깃허브](https://github.com/chaeeunkim30/Simple-Cryptographic-System.git)_**
 
 - *2024.04.24 ~ 2024.04.28*
 
@@ -123,7 +136,7 @@
 - 송/수신자가 사전에 서로 동일한 키를 공유(대칭키 암호 시스템)해야 하며, 임의로 만들어 놓은 알파벳 색상 표를 가지고 알파벳에 맞는 색상과 키를 합성해 암호문을 만들 수 있는 시스템
 <br>
 
-**🐱 고양이 아케이드 퍼즐 게임 🔎 _[깃허브](https://github.com/ccchaeng/Basic-Of-VRAR-Game-Production.git)_**
+**🐱 고양이 아케이드 퍼즐 게임 🔎 _[깃허브](https://github.com/chaeeunkim30/Basic-Of-VRAR-Game-Production.git)_**
 
 - *2023.11.08 ~ 2023.11.28*
 
@@ -144,7 +157,7 @@
 </br>
 <br>
 
-**🏠 똑똑 스마트 홈 (TEAM) 🔎 _[깃허브](https://github.com/ccchaeng/SmartHome.git)_**
+**🏠 똑똑 스마트 홈 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/SmartHome.git)_**
 
 - *2023.11.03 ~ 2023.11.29*
 
