@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffa8f3,100:ff80d7&height=180&text=♡%20CHAE-EUN's%20GitHub%20♡&animation=fadeIn&fontColor=753e79&fontSize=60" />
     </div>
 
-##   🙌 소개
+##   🙌 Introduction
 - 이름: 김채은 / Kim, Chaeeun
 - 생년월일: 2003.04.15
 - 소속: 한림대학교 정보과학대학 소프트웨어학부 콘텐츠IT 전공 / 빅데이터 복수전공
@@ -11,25 +11,29 @@
 <br>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 기술 스택 </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <br/></div>
     </div>
-    <div style="text-align: left;">
-    <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
 
-## 📚 수강 과목
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://chaeng0415.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://chaeng0415.tistory.com/"> </a>
+         <a href=mailto:chaeeunkim30@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chaeeunkim30@gmail.com"> </a>
+          </div>  <br> 
+</div>
+    
+
+## 📚 Major courses
 <details><summary>전공
 </summary>
 
@@ -65,7 +69,7 @@
 
 <br>
 
-## 👩🏻‍🎓 교내 활동
+## 👩🏻‍🎓 Activities
 - [2025] 2025년도 하계 해외 SW연수 (Utah State University, Dept. of Computer Science)
 - [2025] 한림대학교 산학협력프로젝트 (AI 기반 이미지 식별 소형 바이오 임베디드 시스템 연구)
 - [2025] 소프트웨어학부 씨애랑 학술동아리 부원
@@ -78,7 +82,7 @@
 
 <br>
 
-## 💻 프로젝트
+## 💻 Projects
 
 **📷 AI 기반 이미지 식별 소형 임베디드 시스템 연구 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/MobileNet.git)_**
 - *2025.04.22 ~ 진행중*
