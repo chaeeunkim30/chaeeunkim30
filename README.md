@@ -95,6 +95,21 @@
 </br>
 <br>
 
+**🧬 형광 검출 기반 PCR 프로젝트 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/nano-timer.git)_**
+- *2025.02.17 ~ 2025.03.04*
+- [한림대학교 - BIT융합연구소] PCR 반응을 모니터링하기 위한 소프트웨어
+- PCR 반응 동안 생성되는 DNA의 양을 전기화학적으로 측정해 실시간으로 PCR 반응을 모니터링하기 위한 소프트웨어
+- 기술 스택: C++, Qt프레임워크, WaveForms SDK, Analog Discovery2
+- 구현 부분:
+  - WaveForms SDK 연동
+  - Impedance 계산하여 그래프를 띄워주는 기능 구현
+  - 그래프에 대한 결과(시간, 정수, 허수, 절대값)를 .csv 파일로 저장하는 기능 구현
+
+</br>
+<br>
+
+
+
 **🐶 개발자를 위한 웹사이트 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/gaebalbadak.git)_**
 - *2025.02.13 ~ 2025.04.01*
 - 개발자들의 바닥까지 파헤치는 공간
@@ -109,6 +124,8 @@
 
 </br>
 <br>
+
+
 
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/NutriWish.git)_**
 - *2024.09.06 ~ 2024.11.22*
