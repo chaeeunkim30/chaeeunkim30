@@ -89,9 +89,10 @@
 - 기술 스택: HTML5, CSS3
 - 구현 부분:
   - Figma로 웹 디자인
+ 
 | 홈 | 프로젝트 디테일 |
-| :-: | :-: }
-| <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/534e83d1-d9fa-4904-bb23-a7d7dee14261" /> | <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/3eb45ff8-61a7-45be-84c6-bcfdeb9c78b2" /> |
+| :-: | :-: |
+| <img width="350" height="200" alt="Image" src="https://github.com/user-attachments/assets/be461daf-3d0e-45d9-8361-1633b87ce131" /> |  |
 
 </br>
 <br>
