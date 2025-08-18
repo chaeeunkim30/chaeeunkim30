@@ -94,7 +94,17 @@
 | :-: | :-: |
 | <img width="350" height="250" alt="Image" src="https://github.com/user-attachments/assets/7d4299d3-152e-4821-aadf-2dafdab900d1" /> | <img width="350" height="250" alt="Image" src="https://github.com/user-attachments/assets/3be6a5fd-fcc6-4d5f-b7eb-1032bca51d6a" /> |
 
-</br>
+<br>
+
+**📊 야구, 빌보드 차트, 음식 영양 성분 데이터 분석 프로젝트 (TEAM)**
+- *2025.06.30 ~ 2025.07.18*
+- [하계 해외 SW연수] Utah State University, Dept. of Computer Science
+- 다양한 데이터셋을 활용해 데이터 처리와 시각화를 통해 인사이트를 도출하는 데 초점을 맞추고 진행하였습니다.
+- 기술 스택: Python (pandas, seaborn, matplotlib)
+  - [⚾️ 야구 선수 연봉에 영향을 미치는 요인 분석](https://github.com/chaeeunkim30/baseball-salary-analysis.git)
+  - [🎶 Billboard Hot 100 차트 데이터 분석](https://github.com/chaeeunkim30/billboard-chart-analysis.git)
+  - [🍔 음식 영양 성분 데이터 분석 (K-Means Clustering 기법)](https://github.com/chaeeunkim30/food-nutrition-clustering.git)
+ 
 <br>
 
 **📷 AI 기반 이미지 식별 소형 임베디드 시스템 연구 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/MobileNet.git)_**
@@ -105,7 +115,6 @@
   - AI 학습을 위해 Python을 활용한 Train Dataset 이미지 분류 소프트웨어 작성
   - MobileNet 기반으로 모델 구축 중
 
-</br>
 <br>
 
 **🧬 형광 검출 기반 PCR 프로젝트 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/nano-timer.git)_**
@@ -119,7 +128,6 @@
   - 그래프에 대한 결과(시간, 정수, 허수, 절대값)를 .csv 파일로 저장하는 기능
   <img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/ab3392ad-a13a-40d6-b4b7-f73d28e8fa94" />
 
-</br>
 <br>
 
 
@@ -141,10 +149,7 @@
 | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/f599f54e-44ba-4464-824c-dfa79a8e90df" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/05888007-5312-4452-a77d-b7913849a01c" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/89466f10-4cab-420a-94ae-fbc3fb07d0ed" /> | <img width="450" height="300" alt="Image" src="https://github.com/user-attachments/assets/34e1254a-9bb8-4212-b411-e2461df4849e" /> |
 <br>
 클릭하면 사진이 더 크게 보입니다.
-</br>
 <br>
-
-
 
 **💊 영양제 복용 관리 애플리케이션 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/NutriWish.git)_**
 - *2024.09.06 ~ 2024.11.22*
@@ -158,7 +163,6 @@
   - 하단 네비게이션 바 구현
  
 ![image](https://github.com/user-attachments/assets/3a7981ef-e881-4a04-acc8-f386025b0ad9)
-</br>
 <br>
 
 **🔐 RGB 암호 시스템 🔎 _[깃허브](https://github.com/chaeeunkim30/Simple-Cryptographic-System.git)_**
@@ -184,7 +188,6 @@
 | :-: | :-: | :-: |
 | <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/534e83d1-d9fa-4904-bb23-a7d7dee14261" /> | <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/3eb45ff8-61a7-45be-84c6-bcfdeb9c78b2" /> | <img width="350" height="150" alt="Image" src="https://github.com/user-attachments/assets/f2133b15-4f6a-4014-a266-5fecba0ed2b7" /> |
 
-</br>
 <br>
 
 **🏠 똑똑 스마트 홈 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/SmartHome.git)_**
@@ -200,7 +203,7 @@
 | 세부 사진 | 완성 사진 |
 | :-: | :-: |
 | <img width="345" height="150" alt="세부사진" src="https://github.com/user-attachments/assets/b33c49da-70c1-40b2-8d68-e33748edae39" /> | <img width="345" height="150" alt="완성사진" src="https://github.com/user-attachments/assets/e8b1c9a9-1702-4d96-8aec-76e53fe79a6b" /> |
-</br>
+
 <br>
 
 ## 🏅
