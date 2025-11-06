@@ -70,7 +70,7 @@
 
 ## 👩🏻‍🎓 Activities
 - [2025] 2025년도 2학기 표준 현장실습학기제 (React 기반 컴포넌트 및 화면 개발)
-- [2025] 2025 제8회 Hallym SW Week - 한림 AI 편곡 대회 참가
+- [2025] 2025 제8회 Hallym SW Week - 한림 AI 편곡 대회 은상
 - [2025] 2025년도 하계 해외 SW연수 (Utah State University, Dept. of Computer Science)
 - [2025] 한림대학교 산학협력프로젝트 (AI 기반 이미지 식별 소형 바이오 임베디드 시스템 연구)
 - [2025] 소프트웨어학부 씨애랑 학술동아리 부원
