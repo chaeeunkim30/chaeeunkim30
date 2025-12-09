@@ -85,7 +85,6 @@
 <br>
 
 ## 💻 Projects
-
 **👩🏻 김채은의 포트폴리오 🔎 _[깃허브](https://github.com/chaeeunkim30/web_portfolio.git)_**
 - *2025.12.08 ~ 진행중*
 - 개발자로서 지금까지 진행한 프로젝트를 소개하기 위해 웹 페이지를 기획하고 구현하고 있습니다.
@@ -99,6 +98,77 @@
 | :-: | :-: |
 | <img width="350" height="250" alt="Image" src="https://github.com/user-attachments/assets/7d4299d3-152e-4821-aadf-2dafdab900d1" /> | <img width="350" height="250" alt="Image" src="https://github.com/user-attachments/assets/3be6a5fd-fcc6-4d5f-b7eb-1032bca51d6a" /> |
 
+<br>
+
+**🏢 지오멕스소프트 공식 홈페이지 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/geomex-soft.git)_**
+- *2025.10.20 ~ 진행중*
+- [더픽트 - 인턴] 지오멕스소프트의 기술력과 비전을 효과적으로 전달하기 위한 기업 공식 홈페이지 구축 프로젝트입니다.
+- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 구현 부분:
+  - 홈, 회사소개, 연혁, IPRS, 고객사, 뉴스룸, 인재채용 페이지 구현
+  - REST API 연동 (IPRS, 고객사, 메인 배너 & 팝업, 게시판 & 채용, 서비스 소개 등)
+  - swiper, progress-bar 등의 플러그인 커스텀
+  - 컴포넌트 기반 개발
+  - 미디어 쿼리 구현 예정
+<br>
+
+**🔬 한국과학창의재단 지능형 과학실ON 콘텐츠 개발 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/webGLedu2025.git)_**
+- *2025.09.26 ~ 2025.12.31*
+- [더픽트 - 인턴] '지능형 과학실 ON'은 가상 공간에서 실험 과정을 체험하고 학습할 수 있는 에듀테크 서비스입니다.
+- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 구현 부분:
+  - 퀴즈, 보고서, 정리하기, 창의적으로 생각하기 등 인터랙티브 학습 기능 개발
+  - 사이드바 메뉴 개발
+  - 스크롤바 커스텀
+  - 반응형 웹을 위한 미디어 쿼리 작성
+  - QA 피드백 반영
+<br>
+
+**🎨 디자인테크 기업 맞춤형 디자인 전략 지원 플랫폼 🔎 _[깃허브](https://github.com/chaeeunkim30/design-llm-portal.git)_**
+- *2025.09.26 ~ 2025.12.31*
+- [더픽트 - 인턴] 디자인테크 플랫폼의 로그인, 회원가입, 마이페이지를 구현했습니다.
+- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 구현 부분:
+  - Recoil 기반의 멀티 스텝 회원가입 화면 구현
+  - 마이페이지 구현
+<br>
+
+**🏛️ 경희대학교 아트퓨전 교육역량강화 오픈형 플랫폼 🔎 _[깃허브](https://github.com/chaeeunkim30/khu-artfusion.git)_**
+- *2025.10.27*
+- [더픽트 - 인턴] 약관 및 정책 페이지 개발 건입니다.
+- 기술 스택: Next.js 15, React 19, TypeScript, Styled Components
+- 구현 부분:
+  - 컴포넌트 기반의 약관 및 정책 페이지 구현
+  - 반응형 웹 구현
+<br>
+
+**⚜️ 한국스카우트연맹 홈페이지 리뉴얼 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/scout_portal.git)_**
+- *2025.09.02 ~ 2025.10.02*
+- [더픽트 - 인턴] 한국스카우트연맹의 기존 웹사이트를 대상으로 진행한 디자인 및 기능 리뉴얼 프로젝트입니다.
+- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 구현 부분:
+  - UI 전면 리뉴얼 및 구현
+  - 재사용 가능한 컴포넌트 제작
+  - React Hooks를 활용한 상태 및 생명주기 관리
+  - 반응형 웹 및 aos 애니메이션 적용
+<br>
+
+**🍚 강원 미식 50선 랜딩 페이지 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/gw-food.git)_**
+- *2025.09.02 ~ 2025.10.02*
+- [더픽트 - 인턴] 캠페인 소개, 맛집 추천 접수(투표), 공지사항 및 Q&A 소통을 위해 제작되었습니다.
+- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 구현 부분:
+  - Next.js Pages Router 기반 뷰 구조 설계
+  - Q&A 아코디언 UI 개발
+  - 반응형 웹 및 aos 애니메이션 적용
+<br>
+
+**🎮 ZEP 메타버스 독서 프로그램 UI 컴포넌트 🔎 _[깃허브](https://github.com/chaeeunkim30/zep.git)_**
+- *요청 시 당일 개발*
+- [더픽트 - 인턴] 비밀번호 입력, 랭킹 보드, 용어 사전, 알림 팝업 등 사용자와 상호작용하는 UI 요소를 Vanilla HTML/CSS/JS로 경량화하여 개발하였습니다.
+- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 구현 부분:
+  - 비밀번호 입력, 랭킹 보드, 용어 사전, 알림 팝업
 <br>
 
 **📊 야구, 빌보드 차트, 음식 영양 성분 데이터 분석 프로젝트 (TEAM)**
