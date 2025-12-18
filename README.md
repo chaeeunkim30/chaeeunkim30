@@ -85,6 +85,15 @@
 <br>
 
 ## 💻 Projects
+**👥 성평등가족부 교제폭력 예방교육 콘텐츠 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/web_portfolio.git)_**
+- *2025.12.16 ~ 진행중*
+- [더픽트 - 인턴] 교제폭력 예방교육 시뮬레이션 콘텐츠입니다.
+- 기술 스택: React 19, TypeScript, Tailwind CSS
+- 구현 부분:
+  - 랜딩페이지 UI 개발
+  - 결과지 UI 개발
+<br>
+
 **👩🏻 김채은의 포트폴리오 🔎 _[깃허브](https://github.com/chaeeunkim30/web_portfolio.git)_**
 - *2025.12.08 ~ 진행중*
 - 개발자로서 지금까지 진행한 프로젝트를 소개하기 위해 웹 페이지를 기획하고 구현하고 있습니다.
@@ -115,7 +124,7 @@
 **🔬 한국과학창의재단 지능형 과학실ON 콘텐츠 개발 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/webGLedu2025.git)_**
 - *2025.09.26 ~ 2025.12.31*
 - [더픽트 - 인턴] '지능형 과학실 ON'은 가상 공간에서 실험 과정을 체험하고 학습할 수 있는 에듀테크 서비스입니다.
-- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 기술 스택: React 19, TypeScript, Tailwind CSS
 - 구현 부분:
   - 퀴즈, 보고서, 정리하기, 창의적으로 생각하기 등 인터랙티브 학습 기능 개발
   - 사이드바 메뉴 개발
