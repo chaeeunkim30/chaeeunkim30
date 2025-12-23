@@ -86,7 +86,7 @@
 
 ## 💻 Projects
 **👥 양성평등교육원 교제폭력 예방교육 콘텐츠 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/web_portfolio.git)_**
-- *2025.12.16 ~ 진행중*
+- *2025.12.16 ~ 2025.12.23
 - [더픽트 - 인턴] 교제폭력 예방교육 시뮬레이션 콘텐츠입니다.
 - 기술 스택: React 19, TypeScript, Tailwind CSS
 - 구현 부분:
