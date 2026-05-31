@@ -88,7 +88,7 @@
 **👥 양성평등교육원 교제폭력 예방교육 콘텐츠 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/web_portfolio.git)_**
 - *2025.12.16 ~ 2025.12.23
 - [더픽트 - 인턴] 교제폭력 예방교육 시뮬레이션 콘텐츠입니다.
-- 기술 스택: React 19, TypeScript, Tailwind CSS
+- 기술 스택: React 19, TypeScript, Styled Components
 - 구현 부분:
   - 랜딩페이지 UI 개발
   - 결과지 UI 개발
@@ -114,7 +114,7 @@
 **🏢 지오멕스소프트 공식 홈페이지 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/geomex-soft.git)_**
 - *2025.10.20 ~ 진행중*
 - [더픽트 - 인턴] 지오멕스소프트의 기술력과 비전을 효과적으로 전달하기 위한 기업 공식 홈페이지 구축 프로젝트입니다.
-- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 기술 스택: Next.js 15, React 19, TypeScript, Styled Components
 - 구현 부분:
   - 홈, 회사소개, 연혁, IPRS, 고객사, 뉴스룸, 인재채용 페이지 구현
   - REST API 연동 (IPRS, 고객사, 메인 배너 & 팝업, 게시판 & 채용, 서비스 소개 등)
@@ -126,7 +126,7 @@
 **🔬 한국과학창의재단 지능형 과학실ON 콘텐츠 개발 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/webGLedu2025.git)_**
 - *2025.09.26 ~ 2025.12.31*
 - [더픽트 - 인턴] '지능형 과학실 ON'은 가상 공간에서 실험 과정을 체험하고 학습할 수 있는 에듀테크 서비스입니다.
-- 기술 스택: React 19, TypeScript, Tailwind CSS
+- 기술 스택: React 19, TypeScript, Styled Components
 - 구현 부분:
   - 퀴즈, 보고서, 정리하기, 창의적으로 생각하기 등 인터랙티브 학습 기능 개발
   - 사이드바 메뉴 개발
@@ -138,7 +138,7 @@
 **🎨 디자인테크 기업 맞춤형 디자인 전략 지원 플랫폼 🔎 _[깃허브](https://github.com/chaeeunkim30/design-llm-portal.git)_**
 - *2025.09.26 ~ 2025.12.31*
 - [더픽트 - 인턴] 디자인테크 플랫폼의 로그인, 회원가입, 마이페이지를 구현했습니다.
-- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 기술 스택: Next.js 15, React 19, TypeScript, Styled Components
 - 구현 부분:
   - Recoil 기반의 멀티 스텝 회원가입 화면 구현
   - 마이페이지 구현
@@ -156,7 +156,7 @@
 **⚜️ 한국스카우트연맹 홈페이지 리뉴얼 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/scout_portal.git)_**
 - *2025.09.02 ~ 2025.10.02*
 - [더픽트 - 인턴] 한국스카우트연맹의 기존 웹사이트를 대상으로 진행한 디자인 및 기능 리뉴얼 프로젝트입니다.
-- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 기술 스택: Next.js 15, React 19, TypeScript, Styled Components
 - 구현 부분:
   - UI 전면 리뉴얼 및 구현
   - 재사용 가능한 컴포넌트 제작
@@ -167,7 +167,7 @@
 **🍚 강원 미식 50선 랜딩 페이지 (TEAM) 🔎 _[깃허브](https://github.com/chaeeunkim30/gw-food.git)_**
 - *2025.09.02 ~ 2025.10.02*
 - [더픽트 - 인턴] 캠페인 소개, 맛집 추천 접수(투표), 공지사항 및 Q&A 소통을 위해 제작되었습니다.
-- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 기술 스택: Next.js 15, React 19, TypeScript, Styled Components
 - 구현 부분:
   - Next.js Pages Router 기반 뷰 구조 설계
   - Q&A 아코디언 UI 개발
@@ -177,7 +177,7 @@
 **🎮 ZEP 메타버스 독서 프로그램 UI 컴포넌트 🔎 _[깃허브](https://github.com/chaeeunkim30/zep.git)_**
 - *요청 시 당일 개발*
 - [더픽트 - 인턴] 비밀번호 입력, 랭킹 보드, 용어 사전, 알림 팝업 등 사용자와 상호작용하는 UI 요소를 Vanilla HTML/CSS/JS로 경량화하여 개발하였습니다.
-- 기술 스택: Next.js 15, React 19, TypeScript, Tailwind CSS
+- 기술 스택: Next.js 15, React 19, TypeScript, Styled Components
 - 구현 부분:
   - 비밀번호 입력, 랭킹 보드, 용어 사전, 알림 팝업
 <br>
